@@ -2,7 +2,7 @@ from subprocess import call
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot('5348322904:AAFcpRNocAKw_vBrZbi3UwdfCRyyc4zEPnI')
+bot = telebot.TeleBot('bot_key')
 
 # @bot.message_handler()
 # def get_user_test(message):
